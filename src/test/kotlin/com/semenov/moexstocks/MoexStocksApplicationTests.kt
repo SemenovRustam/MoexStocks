@@ -10,4 +10,7 @@ class MoexStocksApplicationTests {
     fun contextLoads() {
     }
 
+
+
+
 }
